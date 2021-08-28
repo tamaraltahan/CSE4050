@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(37,37,37);
+}
+text{
+    font-family: Arial;
+    color: white;
+}
+
+p{
+    text-align: center;
+}
