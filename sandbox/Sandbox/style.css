@@ -1,11 +1,22 @@
 body{
     background-color: rgb(37,37,37);
+    font-family: arial;
+    color: white;
 }
+
 text{
     font-family: Arial;
     color: white;
 }
 
 p{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
     text-align: center;
 }

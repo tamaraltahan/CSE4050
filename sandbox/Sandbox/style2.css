@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(37,37,37);
+    background-image: url("b3.gif");
+    background-size: cover;
+    /* Don't know what this does, saw it on a SO thread & included it */
+    height: 100vh;
+    padding:0;
+    margin:0;
+
+    font-family: monospace;
+    color: rgb(154, 2, 255);
+}
+
+text{
+    color: white;
+}
+
+p{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
