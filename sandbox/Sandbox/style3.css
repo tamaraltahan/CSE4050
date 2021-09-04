@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(46, 46, 46);
+}
+
+.container{
+    font-family: tahoma;
+    width: 90%;
+    margin: auto;
+    color:whitesmoke;
+}
+
+.subcontainer{
+    background-image: url("b3.gif");
+    background-size: cover;
+    margin-top: 50px;
+    border: steelblue 1px solid;
+}
