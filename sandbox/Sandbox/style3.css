@@ -114,3 +114,43 @@ a:visited{
     width: 100%; /* Set full-width to expand the whole page */
 }
 
+#main-block{
+    float: left;
+    width: 70%;
+}
+
+#sidebar{
+    float: right;
+    width: 30%;
+    color:white;
+    padding: 15px;;
+    box-sizing: border-box;
+}
+
+.pbox{
+    padding-left: 1.5%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 800px;
+    height: 500px;
+    border: 1px solid white;
+    position: relative;
+}
+
+.pbox h3{
+    position: absolute;
+    bottom: 20px;
+    right: 25px;
+    float: right;
+}
+
+.basedTag{
+    position:fixed;
+    right: 0%;
+    bottom: 5%;
+    color: lime;
+    border: solid purple 3px;
+    width: max-content;
+    box-sizing: border-box;
+}
