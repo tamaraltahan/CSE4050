@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"name": "Sandbox",
+			"uri": "sandbox:/"
+		}
+	],
+	"settings": {
+		"livePreview.defaultPreviewPath": "c:\\Users\\tamar\\Documents\\GitHub\\CSE4050\\sandbox\\Sandbox\\index.html"
+	}
+}

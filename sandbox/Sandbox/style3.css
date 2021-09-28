@@ -7,7 +7,6 @@ body{
 .container{
     font-family: Tahoma;
     width: 90%;
-    margin: auto;
     color:whitesmoke;
 }
 
@@ -153,4 +152,22 @@ a:visited{
     border: solid purple 3px;
     width: max-content;
     box-sizing: border-box;
+}
+
+#main-header{
+    background-color:slategray;
+    list-style: none;
+}
+
+#navbar li{
+    list-style: none;
+    padding: 0;
+    display: inline;
+    padding-right: 15px; 
+}
+
+#navbar a{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+    color:rgb(229, 255, 0);
 }
